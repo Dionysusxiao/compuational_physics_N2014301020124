@@ -7,3 +7,4 @@ compuational_physics_N2014301020124
 - [x] [Exercise_05](https://www.zybuluo.com/DionysusXiao/note/505450)
 - [x] [Exercise_06](https://www.zybuluo.com/DionysusXiao/note/542521)
 - [x] [Exercise_07](https://www.zybuluo.com/DionysusXiao/note/542521)
+- [x] [Exercise_10](https://www.zybuluo.com/DionysusXiao/note/542521)
